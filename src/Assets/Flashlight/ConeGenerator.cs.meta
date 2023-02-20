@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4bb62ee486a5a0f4dbe33eca5f024b78
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coneMaterial: {fileID: 2100000, guid: 0c925eff5eb29ac48bd844410faaf063, type: 2}
+  - planesMaterial: {fileID: 2100000, guid: 6cf5d0274337e574996e87c84b6389f9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
